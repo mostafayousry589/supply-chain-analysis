@@ -28,7 +28,8 @@ This overview was expanded in the Remainder of the Analysis
 
 1. Each Quarter we Achieve an Average of 43.3% growth over the Same quarter last year, Which was an indication for the Business on how to set their goals to be realistic and achievable.
 
- ![2](https://github.com/mostafayousry589/supply-chain-analysis/assets/69402205/ed2c56bd-8482-4cf2-b88a-b9a87d716913)
+ ![2](https://github.com/mostafayousry589/supply-chain-analysis/assets/69402205/05087a4d-9871-435d-ae4b-08bad2e2720e)
+
 
 
 2. The Business is doing well in South America even though it's not a main market. Maybe they would consider openning new Markets in South America, or maybe exploring the possibility of a new market in Africa since it's not a self sufficient continent.
